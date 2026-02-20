@@ -17,7 +17,7 @@ kernel interface, nor does it have a stable kernel interface**.
 
   The kernel to userspace interface is the one that application programs use,
   the syscall interface.  That interface is **very** stable over time, and
-  will not break.  I have old programs that were built on a pre 0.9something
+  will not break.  I have old programs that were built on a pre 0.9 something
   kernel that still work just fine on the latest 2.6 kernel release.
   That interface is the one that users and application programmers can count
   on being stable.
@@ -25,13 +25,13 @@ kernel interface, nor does it have a stable kernel interface**.
 
 Executive Summary
 -----------------
-You think you want a stable kernel interface, but you really do not, and
-you don't even know it.  What you want is a stable running driver, and
-you get that only if your driver is in the main kernel tree.  You also
-get lots of other good benefits if your driver is in the main kernel
-tree, all of which has made Linux into such a strong, stable, and mature
-operating system which is the reason you are using it in the first
-place.
+
+You might think you want a stable kernel interface, but you really do not - and
+you may not even realize it. What you truly want is a stable, running driver,
+which you get only if your driver is in the main kernel tree. Being in the main
+kernel tree also provides many additional benefits, all of which have helped 
+make Linux a strong, stable, and mature operating system - the very reason you 
+are using it today.
 
 
 Intro
