@@ -208,7 +208,7 @@ If not, then the disclosing party will be informed about the experts'
 participation. The experts are covered by the Memorandum of Understanding
 and the disclosing party is requested to acknowledge their participation.
 In the case where the disclosing party has a compelling reason to object,
-any objection must to be raised within five working days and resolved with
+any objection must be raised within five working days and resolved with
 the incident team immediately. If the disclosing party does not react
 within five working days this is taken as silent acknowledgment.
 
