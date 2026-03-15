@@ -244,7 +244,7 @@ Flow Control
 
 When receiving CAN messages there is no flow control on the USB
 buffer. The driver has to handle inbound message quickly enough to
-avoid drops. I case the device buffer overflow the condition is
+avoid drops. In case the device buffer overflow the condition is
 reported by sending corresponding error frames (see
 :ref:`can_ucan_error_handling`)
 
