@@ -57,8 +57,8 @@ For our purposes all operations fall in 6 classes:
 	* lock the parents in "ancestors first" order (exclusive). If neither is an
 	  ancestor of the other, lock the parent of source first.
 	* find the source and target.
-	* verify that the source is not a descendent of the target and
-	  target is not a descendent of source; fail the operation otherwise.
+	* verify that the source is not a descendant of the target and
+	  target is not a descendant of source; fail the operation otherwise.
 	* lock the subdirectories involved (exclusive), source before target.
 	* lock the non-directories involved (exclusive), in inode pointer order.
 
