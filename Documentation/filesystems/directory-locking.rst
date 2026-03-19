@@ -217,7 +217,7 @@ Which pair could it be?
 
 It can't be the parents - indeed, since D1 is an ancestor of Dn,
 it would be the first parent to be locked.  Therefore at least one of the
-children must be involved and thus neither of them could be a descendent
+children must be involved and thus neither of them could be a descendant
 of another - otherwise the operation would not have progressed past
 locking the parents.
 
