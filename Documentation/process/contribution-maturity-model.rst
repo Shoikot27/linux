@@ -65,7 +65,7 @@ Level 3
   authored by engineers from other companies) as part of their job
   responsibilities
 * Contributing presentations or papers to Linux-related or academic
-  conferences (such those organized by the Linux Foundation, Usenix,
+  conferences (such as those organized by the Linux Foundation, Usenix,
   ACM, etc.), are considered part of an engineer’s work.
 * A Software Engineer’s community contributions will be considered in
   promotion and performance reviews.
