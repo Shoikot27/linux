@@ -3,7 +3,7 @@
 Testing
 =======
 
-This document contains useful information how to test the Rust code in the
+This document contains useful information on how to test the Rust code in the
 kernel.
 
 There are three sorts of tests:
